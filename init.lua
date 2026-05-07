@@ -629,9 +629,6 @@ require('lazy').setup({
               codelenses = {
                 gc_details = true,
               },
-              formatting = {
-                goimports = true,
-              },
             },
           },
         },
